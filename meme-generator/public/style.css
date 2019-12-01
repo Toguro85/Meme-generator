@@ -44,6 +44,7 @@ header > p {
     width: 50%;
     text-align: center;
     left: 30%;
+    word-wrap: break-word;
     transform: translateX(-50%);
     margin: 15px 0;
     padding: 0 5px;
